@@ -13,9 +13,11 @@ HTML, CSS, Javascript, SCSS, SASS, PUG, Webpack,  C#, Python
 
 ## Examples of code
 See <https://github.com/danybala>
-```function multiply(a, b){
+```
+function multiply(a, b){
   return a * b;
-}```
+}
+```
 
 
 ## Experience
